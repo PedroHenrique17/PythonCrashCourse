@@ -15,5 +15,5 @@ pizzas=["Neapolitan", "Sicilian", "Greek"]
 
 for type in pizzas:
     print(f"The type is {type}")
-    
+
 print("This is silly")
